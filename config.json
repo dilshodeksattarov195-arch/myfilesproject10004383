@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoicedarse",
+        "uuid": 8910639,
+        "checksum": "79g01o"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
